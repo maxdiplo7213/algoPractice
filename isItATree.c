@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MAX 20000
+#define MAX 10000
 
 
 int stack[MAX], top = -1;
